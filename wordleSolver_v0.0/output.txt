@@ -1,0 +1,16 @@
+HIDDEN: gnaws
+12972
+dicer
+B B B B B 
+2407
+puggy
+B B Y Y B 
+99
+goons
+G B B Y G 
+3
+gants
+G Y Y B G 
+1
+gnaws
+G G G G G 
