@@ -1,1 +1,3 @@
 # WordleSolverBOT
+
+Wordle Solver
